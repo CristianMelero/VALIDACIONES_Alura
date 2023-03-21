@@ -1,0 +1,11 @@
+{
+    "liveServer.settings.port": 5501,
+    "quokka.colors": {
+        
+        "covered": "#62b455",
+        "errorPath": "#ffa0a0",
+        "errorSource": "#fe536a",
+        "notCovered": "#cccccc",
+        "partiallyCovered": "#d2a032"
+    }
+}
